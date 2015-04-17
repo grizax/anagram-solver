@@ -6,7 +6,9 @@
 An anagram is a type of word play, the result of rearranging the letters of a word or phrase to produce a new word or phrase, using all the original letters exactly once. 
 
 Anagrams Examples: 
-Torchwood : Doctor Who 
+
+Torchwood : Doctor Who
+
 Clint Eastwood : Old West Action
 
 
